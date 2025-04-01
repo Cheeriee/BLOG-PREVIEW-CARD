@@ -43,7 +43,7 @@ Learned more about calculations, border and border-shadow.
 
 ### Useful resources
 
-- [https://www.w3schools.com/](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [https://www.w3schools.com/](https://www.example.com) - This helped me get my flex display correctly.
 
 
 ## Author
